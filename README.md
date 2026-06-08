@@ -2,20 +2,43 @@
 
 Clickable HTML mockups for Maya HQ — Paris's Full HQ Visual Command Center.
 
-## Updated from Paris's feedback
+## Current direction
 
-- Shifted the visual system toward a lush green palette.
-- Made Calm Command Center project lanes clickable.
-- Renamed urgent pings to **Connection Corner** for a warmer relationship-first layer.
-- Added clearer deadlines to Visual Command HQ.
-- Added weekly calendar view for day/date visibility.
-- Kept Focus Day Planner as the preferred direction.
-- Added capacity, moon cycle, and daily intention generation to Focus Day Planner.
+Paris prefers a combination of:
+
+1. **Daily Planning Ritual** as the primary v1 screen.
+2. **Calm Command Center** as the secondary overview screen.
+3. **Visual Command HQ** as the later project/operator board.
+
+## Latest updates from Paris's feedback
+
+- Preserved the lighter lush green palette and dark green primary buttons.
+- Used more organized shade variation for visual clarity.
+- Made the Calm Command Center left-side workflow clearer:
+  - Today
+  - Projects
+  - Connection Corner
+  - Weekly Map
+  - Parking Lot
+- Added interactive intake so Paris can feed Maya:
+  - priorities
+  - meetings
+  - calendar context
+  - deadlines
+  - energy level
+- Updated Focus Day Planner from moon-cycle framing to **period-cycle energy** framing.
+- Added period-cycle phases:
+  - Menstrual / restore
+  - Follicular / build
+  - Ovulatory / connect
+  - Luteal / refine
+- Kept generated intention and suggested calendar blocks.
+- Reframed the product as a daily planning ritual first, command center second.
 
 ## Variants
 
-1. Calm Command Center — daily dashboard and brain dump intake.
-2. Visual Command HQ — project lanes, deadlines, calendar view, and action drawer.
-3. Focus Day Planner — capacity-based daily planning ritual with moon cycle and intention.
+1. Daily Planning Ritual — primary v1 direction.
+2. Calm Command Center — secondary visual overview.
+3. Visual Command HQ — project board with deadlines and weekly calendar.
 
 Published with GitHub Pages.
